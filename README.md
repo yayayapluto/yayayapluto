@@ -1,20 +1,22 @@
 # Muhammad Farras Ashshiddiqi
 
-Backend developer. APIs, databases, and the parts that break at 3am.
+Backend developer. Go, TypeScript, Python. Most of my time goes to APIs, queues, and the failure paths between them.
 
 ```text
-Go · TypeScript (Bun) · Python · PostgreSQL · Docker · Linux
+Go · TypeScript (Bun) · Python · Rust
+PostgreSQL · MongoDB · Redis · Docker · Linux
 ```
 
-## Projects
+## OMP
 
-- [`tixwar-api`](https://github.com/yayayapluto/tixwar-api): flash-sale ticketing API. Bun, TypeScript, Express 5, sharded MongoDB, Redis stock gate.
-- [`parkieee-api`](https://github.com/yayayapluto/parkieee-api): parking management API. Go, Fiber, PostgreSQL, JWT with RBAC.
-- [`daspro-api`](https://github.com/yayayapluto/daspro-api): HTTP service that runs C practicum modules and returns graded reports. MIT.
-- [`mdview`](https://github.com/yayayapluto/mdview): Markdown viewer. Rust, egui.
+OMP enthusiast. I run it daily and maintain plugins for it: model provider bridges, prompt profile injection, and a `models.yml` editor.
 
-## Notes
+## Focus
 
-Coursework sits in private repos. The pinned ones are still maintained.
+- Backend systems: flash-sale style concurrency, sharded MongoDB, Redis as an atomic stock gate.
+- Tooling around OMP and local model providers.
+- OCR and hand-sign pipelines when the problem needs vision.
 
-Indonesia. Reading a repo and something looks wrong? Open an issue.
+## Contact
+
+Open an issue on any public repo.

@@ -1,12 +1,11 @@
 <div align="center">
 
 ```text
- ███████╗ █████╗ ██████╗ ██████╗  █████╗ ███████╗
- ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝
- █████╗  ███████║██████╔╝██████╔╝███████║███████╗
- ██╔══╝  ██╔══██║██╔══██╗██╔══██╗██╔══██║╚════██║
- ██║     ██║  ██║██║  ██║██║  ██║██║  ██║███████║
- ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+  _   _  __ _ _   _  __ _ _   _  __ _ _ __ | |_   _| |_ ___  
+ | | | |/ _` | | | |/ _` | | | |/ _` | '_ \| | | | | __/ _ \ 
+ | |_| | (_| | |_| | (_| | |_| | (_| | |_) | | |_| | || (_) |
+  \__, |\__,_|\__, |\__,_|\__, |\__,_| .__/|_|\__,_|\__\___/ 
+  |___/       |___/       |___/      |_|                     
 ```
 
 **Backend developer. OMP enthusiast.**
@@ -23,22 +22,9 @@
 
 </div>
 
-```console
-$ whoami
-farras
+Backend developer. Go, TypeScript, Python. APIs, queues, and the failure paths between them.
 
-$ cat focus
-APIs, queues, and the failure paths between them
-OMP plugins and local model providers
-OCR and hand-sign pipelines
-
-$ ls ~/plugins
-model provider bridges
-prompt profile injection
-models.yml editor
-```
-
-OMP runs on my machine every day. I write plugins for it and keep the local model plumbing alive.
+OMP enthusiast. I maintain plugins for it: model provider bridges, prompt profile injection, and a `models.yml` editor.
 
 <div align="center">
 
@@ -50,7 +36,4 @@ OMP runs on my machine every day. I write plugins for it and keep the local mode
 
 </div>
 
-```console
-$ contact
-open an issue on any public repo
-```
+Issues are open on any public repo.

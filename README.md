@@ -24,8 +24,6 @@
 
 Backend developer. Go, TypeScript, Python. APIs, queues, and the failure paths between them.
 
-OMP enthusiast. I maintain plugins for it: model provider bridges, prompt profile injection, and a `models.yml` editor.
-
 <div align="center">
 
 [![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yayayapluto&theme=github)](https://github.com/yayayapluto)

@@ -1,22 +1,56 @@
-# Muhammad Farras Ashshiddiqi
-
-Backend developer. Go, TypeScript, Python. Most of my time goes to APIs, queues, and the failure paths between them.
+<div align="center">
 
 ```text
-Go · TypeScript (Bun) · Python · Rust
-PostgreSQL · MongoDB · Redis · Docker · Linux
+ ███████╗ █████╗ ██████╗ ██████╗  █████╗ ███████╗
+ ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝
+ █████╗  ███████║██████╔╝██████╔╝███████║███████╗
+ ██╔══╝  ██╔══██║██╔══██╗██╔══██╗██╔══██║╚════██║
+ ██║     ██║  ██║██║  ██║██║  ██║██║  ██║███████║
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-## OMP
+**Backend developer. OMP enthusiast.**
 
-OMP enthusiast. I run it daily and maintain plugins for it: model provider bridges, prompt profile injection, and a `models.yml` editor.
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
 
-## Focus
+</div>
 
-- Backend systems: flash-sale style concurrency, sharded MongoDB, Redis as an atomic stock gate.
-- Tooling around OMP and local model providers.
-- OCR and hand-sign pipelines when the problem needs vision.
+```console
+$ whoami
+farras
 
-## Contact
+$ cat focus
+APIs, queues, and the failure paths between them
+OMP plugins and local model providers
+OCR and hand-sign pipelines
 
-Open an issue on any public repo.
+$ ls ~/plugins
+model provider bridges
+prompt profile injection
+models.yml editor
+```
+
+OMP runs on my machine every day. I write plugins for it and keep the local model plumbing alive.
+
+<div align="center">
+
+[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yayayapluto&theme=github)](https://github.com/yayayapluto)
+[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yayayapluto&theme=github)](https://github.com/yayayapluto)
+[![Streak](https://streak-stats.demolab.com?user=yayayapluto&hide_border=true&theme=github-dark-blue)](https://github.com/yayayapluto)
+
+[![Profile views](https://komarev.com/ghpvc/?username=yayayapluto&style=flat-square&color=555555)](https://github.com/yayayapluto)
+
+</div>
+
+```console
+$ contact
+open an issue on any public repo
+```
